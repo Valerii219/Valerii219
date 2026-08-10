@@ -42,5 +42,5 @@ skills, learn from experienced professionals, and contribute to
 data-driven decision making.
 
 ### 📫 Contact
-- LinkedIn: [your LinkedIn]
-- Email: [your email]
+- LinkedIn: https://linkedin.com/in/valerii-arlamovskyi
+- Email: arlamov96@gmail.com
